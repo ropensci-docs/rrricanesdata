@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "358f810a7cf018c75066862174b0efef38e14165",
+    "author": "rOpenSci Bot <myrmecocystus+ropenscibot@gmail.com>",
+    "time": "2019-12-09 19:22:41",
+    "files": 1,
+    "merge": false,
+    "message": "Add links to official docs site.\nFor more details: https://ropensci.org/technotes/2019/06/07/ropensci-docs/\n"
+  },
+  "repo": "https://github.com/ropensci/rrricanesdata",
+  "pkg": "rrricanesdata"
+}

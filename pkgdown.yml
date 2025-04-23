@@ -1,0 +1,8 @@
+pandoc: 3.6.4
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles: {}
+last_built: 2025-04-23T17:08Z
+urls:
+  reference: https://docs.ropensci.org/rrricanesdata/reference
+  article: https://docs.ropensci.org/rrricanesdata/articles
